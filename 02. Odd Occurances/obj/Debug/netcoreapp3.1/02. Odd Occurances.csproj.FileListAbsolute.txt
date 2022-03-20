@@ -1,0 +1,14 @@
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\bin\Debug\netcoreapp3.1\02. Odd Occurances.exe
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\bin\Debug\netcoreapp3.1\02. Odd Occurances.deps.json
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\bin\Debug\netcoreapp3.1\02. Odd Occurances.runtimeconfig.json
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\bin\Debug\netcoreapp3.1\02. Odd Occurances.runtimeconfig.dev.json
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\bin\Debug\netcoreapp3.1\02. Odd Occurances.dll
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\bin\Debug\netcoreapp3.1\02. Odd Occurances.pdb
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\obj\Debug\netcoreapp3.1\02. Odd Occurances.csproj.AssemblyReference.cache
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\obj\Debug\netcoreapp3.1\02. Odd Occurances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\obj\Debug\netcoreapp3.1\02. Odd Occurances.AssemblyInfoInputs.cache
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\obj\Debug\netcoreapp3.1\02. Odd Occurances.AssemblyInfo.cs
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\obj\Debug\netcoreapp3.1\02. Odd Occurances.csproj.CoreCompileInputs.cache
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\obj\Debug\netcoreapp3.1\02. Odd Occurances.dll
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\obj\Debug\netcoreapp3.1\02. Odd Occurances.pdb
+C:\Users\Kristiyan\source\repos\Dictionary Lamba Linq\02. Odd Occurances\obj\Debug\netcoreapp3.1\02. Odd Occurances.genruntimeconfig.cache
